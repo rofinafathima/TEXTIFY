@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "mysql-connector-j-9.5.0.jar",
+        "c:\\Users\\Rofina\\OneDrive\\Desktop\\notes\\lib\\cmulex.jar",
+        "c:\\Users\\Rofina\\OneDrive\\Desktop\\notes\\lib\\cmu_us_kal.jar",
+        "c:\\Users\\Rofina\\OneDrive\\Desktop\\notes\\lib\\cmutimelex.jar",
+        "c:\\Users\\Rofina\\OneDrive\\Desktop\\notes\\lib\\freetts.jar",
+        "c:\\Users\\Rofina\\OneDrive\\Desktop\\notes\\lib\\en_us.jar"
+    ]
+}
